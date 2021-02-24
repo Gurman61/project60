@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h1{
+    color: aqua;
+}
+#menu{
+    
+}
+#picture{
+    width: 400px;
+    height: 350px;
+    
+}
+img{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#img:hover {
+    transform: scale(0.9);
+}
